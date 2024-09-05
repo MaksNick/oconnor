@@ -1,0 +1,39 @@
+site_name: o'connor
+
+theme:
+    name: simple-blog
+    components:
+      site_name: true
+      footer: false
+      title: false
+      preview: false
+    language: en
+    extra_css:
+      - 'css/extra.css'
+
+markdown_extensions:
+  - attr_list
+plugins:
+  - mkdocs-pdf
+  
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.2/css/bootstrap.min.css
+
+extra_javascript:
+  - https://code.jquery.com/jquery-3.5.1.slim.min.js
+  - https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+  - https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+
+nav:
+  - Home: index.md
+  - Blog:
+    - Megabyte: my_projects/megabyte.md
+    - Articles:
+      - Compass (RU): my_projects/compass.md
+      - Yogyakarta (RU): my_projects/yogyakarta.md
+    - Media:
+      - Playlists: my_projects/media.md
+  - Projects:
+    - Legacy: my_projects/putin.md
+    - WVS Analysis: my_projects/WorldValuesSurvey.md
+    - Taylor: my_projects/taylor.md

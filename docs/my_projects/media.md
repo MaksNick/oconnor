@@ -1,17 +1,15 @@
 ## Stash of my playlists
 
-Just a bunch of playlists created by me on the different platforms. Enjoy!
+Just a bunch of feautured playlists created by me. Enjoy!
 
-### YouTube
+#### Summertime melancholy 
 
-[POV: Today is the last day of Arcadia Bay, but you don't know it and just enjoy life](https://www.youtube.com/watch?v=xGuYpukkgzQ)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2v8Kbl79G6UxzGvaRhPklx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[POV: You are traveling across the Eastern Europe](https://www.youtube.com/watch?v=mIEkhI0m1eE)
+#### Summertime calmness
 
-### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6JiY55a3CltD3bqwlgZsxQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[Summertime melancholy](https://open.spotify.com/playlist/2v8Kbl79G6UxzGvaRhPklx?si=efb1b54057c94c2f)
+#### Beating insomnia
 
-[Summertime calmness](https://open.spotify.com/playlist/6JiY55a3CltD3bqwlgZsxQ?si=92287ee415f2479a)
-
-[Beating insomnia](https://open.spotify.com/playlist/5zh6XMwgkMiil1LXC97Qbv?si=27d3ff86f8e44d95)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5zh6XMwgkMiil1LXC97Qbv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -11,6 +11,8 @@ theme:
     extra_css:
       - 'css/extra.css'
 
+site_url: https://maksnick.github.io/oconnor/
+
 markdown_extensions:
   - attr_list
 plugins:

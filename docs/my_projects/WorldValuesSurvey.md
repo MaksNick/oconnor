@@ -2,7 +2,7 @@
 
 The World Values Survey ([WVS](https://www.worldvaluessurvey.org/WVSContents.jsp)) is an international research program devoted to the scientific and academic study of social, political, economic, religious and cultural values of people in the world. The project’s goal is to assess which impact values stability or change over time has on the social, political and economic development of countries and societies.
 
-![WVS 7 wave results](/pics/wvs.png)
+![WVS 7 wave results](img/wvs.png)
 
 ### Data alalysis project
 

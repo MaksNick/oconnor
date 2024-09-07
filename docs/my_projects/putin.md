@@ -12,13 +12,13 @@ You can read more about mentioned attacks [here](https://www.dw.com/en/from-besl
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/1.jpg" class="d-block w-100" alt="Картинка 1">
+      <img src="/oconnor/my_projects/img/1.jpg" class="d-block w-100" alt="Картинка 1">
     </div>
     <div class="carousel-item">
-      <img src="img/2.jpg" class="d-block w-100" alt="Картинка 2">
+      <img src="/oconnor/my_projects/img/2.jpg" class="d-block w-100" alt="Картинка 2">
     </div>
     <div class="carousel-item">
-      <img src="img/3.jpg" class="d-block w-100" alt="Картинка 3">
+      <img src="/oconnor/my_projects/img/3.jpg" class="d-block w-100" alt="Картинка 3">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

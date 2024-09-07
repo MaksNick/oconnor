@@ -28,7 +28,11 @@
             
                 
             
-    </head>
+     <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
 
     <body>
         <div class="container py-3">
@@ -140,6 +144,8 @@
                 <!-- block source -->
                 <li class="nav-item">
                     
+                        
+                    
                 </li>
                 <!--  endblock -->
             </ul>
@@ -168,13 +174,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/pics/1.jpg" class="d-block w-100" alt="Картинка 1">
+      <a class="glightbox" href="/oconnor/my_projects/img/1.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="/oconnor/my_projects/img/1.jpg" class="d-block w-100" alt="Картинка 1"></a>
     </div>
     <div class="carousel-item">
-      <img src="/pics/2.jpg" class="d-block w-100" alt="Картинка 2">
+      <a class="glightbox" href="/oconnor/my_projects/img/2.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="/oconnor/my_projects/img/2.jpg" class="d-block w-100" alt="Картинка 2"></a>
     </div>
     <div class="carousel-item">
-      <img src="/pics/3.jpg" class="d-block w-100" alt="Картинка 3">
+      <a class="glightbox" href="/oconnor/my_projects/img/3.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="/oconnor/my_projects/img/3.jpg" class="d-block w-100" alt="Картинка 3"></a>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -231,6 +237,7 @@
                 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" defer></script>
                 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" defer></script>
 
-    </body>
+    <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+</script></body>
 
 </html>
